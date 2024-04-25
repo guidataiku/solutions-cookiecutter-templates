@@ -1,0 +1,6 @@
+{
+    "template": [
+        "Vue (./templates/vue)",
+        "Angular (./templates/angular)"
+    ]
+}
